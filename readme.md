@@ -105,6 +105,7 @@ This is just a simple demonstration to get a basic understanding of how Kubernet
             - [Seeing a Job run a pod](#seeing-a-job-run-a-pod)
 
 4. [Todo](#todo)
+5. [Contributing](#contributing)
 
 ## Requirements
 
@@ -1539,4 +1540,10 @@ batch-job 1         0           2s
 - [ ] Write more on updating running pods
 - [ ] Write about StatefulSets
 - [ ] More on securing pods and containers
-- [ ] Implement && write about GCP 
+- [ ] Implement && write about GCP
+- [ ] Document RBAC basics
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request if you
+find something that can be improved.
